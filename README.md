@@ -1,16 +1,43 @@
-## Hi there 👋
+# EC-Builds
 
-<!--
-**ec-builds/ec-builds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Infrastructure, systems administration, automation, and cloud engineering portfolio.
 
-Here are some ideas to get you started:
+## Current Focus
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Enterprise Homelab
+- Linux Administration
+- Infrastructure Documentation
+- Networking
+- Automation
+- Microsoft 365 & Entra ID
+
+## Featured Project
+
+### Enterprise Homelab
+
+Enterprise-focused home lab for systems administration, infrastructure engineering, identity management, networking, automation, virtualization, and cybersecurity.
+
+Repository:
+- enterprise-homelab
+
+## Technologies
+
+- Windows Server
+- Linux
+- Active Directory
+- Microsoft Entra ID
+- PowerShell
+- Python
+- Docker
+- Networking
+- GitHub
+- Virtualization
+
+## Current Learning Roadmap
+
+- Linux Administration
+- Infrastructure Automation
+- Monitoring & Alerting
+- Identity Management
+- Cloud Administration
+- Security Hardening
