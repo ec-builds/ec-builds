@@ -1,6 +1,6 @@
 # EC-Builds
 
-10+ years of hands-on systems administration across government, healthcare, aerospace, and enterprise environments — now building toward cloud and infrastructure engineering through deliberate, documented lab work.
+10+ years of hands-on systems administration across healthcare, aerospace, and non-profit — now building toward cloud and infrastructure engineering through deliberate, documented lab work.
 
 This GitHub is my technical portfolio: real builds, real configs, and real lessons learned as I expand from sysadmin into cloud, automation, and security operations.
 
