@@ -1,18 +1,18 @@
 # EC-Builds
 
-10+ years of hands-on systems administration across healthcare, aerospace, and non-profit — now building toward cloud and infrastructure engineering through deliberate, documented lab work.
-
 This GitHub is my technical portfolio: real builds, real configs, and real lessons learned as I expand from sysadmin into cloud, automation, and security operations.
 
 ---
 
 ## About
 
-I've spent a decade managing infrastructure in high-compliance, high-stakes environments — including regulated healthcare systems, non-profit, and aerospace. That background means I'm comfortable with strict change management, security requirements, and being the person everyone calls when something breaks.
+I'm a systems administrator with 10+ years of experience supporting enterprise IT across healthcare, aerospace, and non-profit organizations.
 
-Now I'm channeling that operational depth into cloud engineering, infrastructure automation, and security operations — areas where my hands-on systems knowledge gives me a foundation most people building in those spaces don't have.
+Throughout my career, I’ve built and supported enterprise infrastructure in environments where reliability, security, and documentation mattered every day. I’ve learned that reliable infrastructure isn’t just about deploying technology. It’s about building systems that are secure, well documented, and easy to maintain.
 
-I work remotely and document everything.
+This repository documents that journey. Every project is built to strengthen my technical skills while following production-inspired practices for architecture, documentation, automation, and security.
+
+My goal is simple: keep building, keep learning, and share what I learn along the way.
 
 ---
 
