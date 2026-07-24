@@ -1,6 +1,6 @@
 # EC-Builds
 
-This GitHub is my technical portfolio: real builds, real configs, and real lessons learned as I expand from sysadmin into cloud, automation, and security operations.
+This GitHub is my technical portfolio. It documents the projects, configurations, and lessons learned   as I expand from systems administration into cloud, automation, and security operations.
 
 
 
@@ -8,9 +8,9 @@ This GitHub is my technical portfolio: real builds, real configs, and real lesso
 
 I'm a systems administrator with 10+ years of experience supporting enterprise IT across healthcare, aerospace, and non-profit organizations.
 
-Throughout my career, I’ve built and supported enterprise infrastructure in environments where reliability, security, and documentation mattered every day. I’ve learned that reliable infrastructure isn’t just about deploying technology. It’s about building systems that are secure, well documented, and easy to maintain.
+Throughout my career, I’ve built and supported enterprise infrastructure in environments where reliability, security, and documentation mattered. I’ve learned that reliable infrastructure isn’t just about deploying technology. It’s about building systems that are secure, well documented, and easy to maintain.
 
-This repository documents that journey. Every project is built to strengthen my technical skills while following production-inspired practices for architecture, documentation, automation, and security.
+This repository documents that journey. 
 
 My goal is simple: keep building, keep learning, and share what I learn along the way.
 
@@ -20,9 +20,7 @@ My goal is simple: keep building, keep learning, and share what I learn along th
 
 ### 🏗️ Enterprise Homelab
 
-An enterprise-focused home lab built on repurposed hardware, documenting real infrastructure builds across 14 project areas — from Active Directory and identity management to Kubernetes, CI/CD pipelines, and security operations.
-
-This isn't a list of things I plan to learn. It's an ongoing record of what I'm actually building, how I built it, and what I learned along the way.
+An enterprise-focused homelab built on repurposed hardware that documents real infrastructure projects across 14 technical areas, including Active Directory, networking, virtualization, automation, cloud, and security.
 
 → [enterprise-homelab](https://github.com/ec-builds/enterprise-homelab)
 
@@ -38,27 +36,26 @@ This isn't a list of things I plan to learn. It's an ongoing record of what I'm 
 - **Security Hardening** — SIEM, detection engineering, and incident response
 
 
-
 ## Technologies
 
 | Category | Tools |
 |---|---|
 | Operating Systems | Windows Server, Linux (Debian/Ubuntu) |
-| Identity & Access | Active Directory, Microsoft Entra ID, Group Policy |
+| Virtualization | Proxmox |
 | Cloud | Azure, Microsoft 365 |
+| Identity & Access | Active Directory, Microsoft Entra ID, Group Policy |
+| Networking | VLANs, DNS/DHCP, Firewalls, VPN, WireGuard |
 | Automation | PowerShell, Python, Ansible, Terraform |
 | Containers & Orchestration | Docker, Kubernetes (k3s) |
-| Monitoring | Prometheus, Grafana |
-| Virtualization | Proxmox |
-| Networking | VLANs, DNS/DHCP, Firewalls, VPN |
+| Monitoring & Observability | Prometheus, Grafana |
 | CI/CD | GitHub Actions |
 
 
 ## Certifications
 
 Working toward:
-- CompTIA Security+
 - CompTIA Network+
+- CompTIA Security+
 - CompTIA Linux+
 
 
