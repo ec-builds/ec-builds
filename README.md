@@ -3,6 +3,15 @@
 This GitHub is my technical portfolio. It documents the projects, configurations, and lessons learned   as I expand from systems administration into cloud, automation, and security operations.
 
 
+## Featured Project
+
+### 🏗️ Enterprise Homelab
+
+An enterprise-focused homelab built on repurposed hardware that documents real infrastructure projects across 14 technical areas, including Active Directory, networking, virtualization, automation, cloud, and security.
+
+→ [enterprise-homelab](https://github.com/ec-builds/enterprise-homelab)
+
+
 
 ## About
 
@@ -13,16 +22,6 @@ Throughout my career, I’ve built and supported enterprise infrastructure in en
 This repository documents that journey. 
 
 My goal is simple: keep building, keep learning, and share what I learn along the way.
-
-
-
-## Featured Project
-
-### 🏗️ Enterprise Homelab
-
-An enterprise-focused homelab built on repurposed hardware that documents real infrastructure projects across 14 technical areas, including Active Directory, networking, virtualization, automation, cloud, and security.
-
-→ [enterprise-homelab](https://github.com/ec-builds/enterprise-homelab)
 
 
 
