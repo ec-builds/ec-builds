@@ -9,7 +9,7 @@ This GitHub is my technical portfolio. It documents the projects, configurations
 
 An enterprise-focused homelab built on repurposed hardware that documents real infrastructure projects across 14 technical areas, including Active Directory, networking, virtualization, automation, cloud, and security.
 
-→ [enterprise-homelab](https://github.com/ec-builds/enterprise-homelab)
+➡️ [enterprise-homelab](https://github.com/ec-builds/enterprise-homelab)
 
 
 
