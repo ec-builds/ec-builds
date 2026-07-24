@@ -2,7 +2,7 @@
 
 This GitHub is my technical portfolio: real builds, real configs, and real lessons learned as I expand from sysadmin into cloud, automation, and security operations.
 
----
+
 
 ## About
 
@@ -14,7 +14,7 @@ This repository documents that journey. Every project is built to strengthen my 
 
 My goal is simple: keep building, keep learning, and share what I learn along the way.
 
----
+
 
 ## Featured Project
 
@@ -26,7 +26,7 @@ This isn't a list of things I plan to learn. It's an ongoing record of what I'm 
 
 → [enterprise-homelab](https://github.com/ec-builds/enterprise-homelab)
 
----
+
 
 ## Current Focus
 
@@ -37,7 +37,7 @@ This isn't a list of things I plan to learn. It's an ongoing record of what I'm 
 - **Cloud Administration** — Azure infrastructure and governance  
 - **Security Hardening** — SIEM, detection engineering, and incident response
 
----
+
 
 ## Technologies
 
@@ -53,7 +53,6 @@ This isn't a list of things I plan to learn. It's an ongoing record of what I'm 
 | Networking | VLANs, DNS/DHCP, Firewalls, VPN |
 | CI/CD | GitHub Actions |
 
----
 
 ## Certifications
 
@@ -62,7 +61,6 @@ Working toward:
 - CompTIA Network+
 - CompTIA Linux+
 
----
 
 ## Development Roadmap
 
@@ -76,7 +74,7 @@ Building in phases — foundation first, then automation, then security and clou
 | 4. Optimize & Secure | Hardening, access control, SIEM, DR planning |
 | 5. Operate & Grow | Cloud integration, advanced architecture, continuous improvement |
 
----
+
 
 ## Connect
 
