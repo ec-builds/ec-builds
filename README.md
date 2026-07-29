@@ -108,9 +108,7 @@ Currently pursuing:
 - CompTIA Security+
 - CompTIA Linux+
 
-
-
 ## Connect
 
-- 🌐 [emmanuelcasillas.com](http://emmanuelcasillas.com)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/ecasillas03)
+[![Website](https://img.shields.io/badge/Website-emmanuelcasillas.com-blue?logo=googlechrome)](https://emmanuelcasillas.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-casillasemmanuel-blue?logo=linkedin)](https://www.linkedin.com/in/casillasemmanuel)
