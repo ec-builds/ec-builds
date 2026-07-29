@@ -35,19 +35,17 @@ My goal is simple: keep building, keep learning, and share what I learn along th
 - **Security Operations** — strengthening infrastructure through hardening, network segmentation, SIEM, vulnerability management, and incident response
 
 
-## Technologies
-
-| Category | Tools |
+| Category | Technologies |
 |---|---|
-| Operating Systems | Windows Server, Linux (Debian/Ubuntu) |
-| Virtualization | Proxmox |
-| Cloud | Azure, Microsoft 365 |
+| Operating Systems | Windows Server, Debian, Ubuntu |
+| Virtualization | Proxmox VE, Hyper-V |
+| Containers | Docker, Kubernetes (k3s) |
+| Cloud | Microsoft Azure, Microsoft 365 |
 | Identity & Access | Active Directory, Microsoft Entra ID, Group Policy |
-| Networking | VLANs, DNS/DHCP, Firewalls, VPN, WireGuard |
-| Automation | PowerShell, Python, Ansible, Terraform |
-| Containers & Orchestration | Docker, Kubernetes (k3s) |
-| Monitoring & Observability | Prometheus, Grafana |
-| CI/CD | GitHub Actions |
+| Networking | VLANs, DNS, DHCP, Firewalls, VPN, WireGuard |
+| Automation & IaC | PowerShell, Python, Ansible, Terraform, GitHub Actions |
+| Monitoring & Observability | Prometheus, Grafana, Uptime Kuma |
+| Storage & Backup | Synology DSM, Active Backup for Business |
 
 
 ## Certifications
