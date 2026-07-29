@@ -1,6 +1,6 @@
 # EC-Builds
 
-This GitHub is my technical portfolio. It documents the projects, configurations, and lessons learned   as I expand from systems administration into cloud, automation, and security operations.
+This GitHub is my technical portfolio, documenting enterprise-inspired infrastructure projects, configurations, and lessons learned as I continue growing in systems administration, cloud, automation, and security.
 
 
 ## Featured Project
@@ -17,18 +17,53 @@ An enterprise-focused homelab built on repurposed hardware that documents real i
 
 I'm a network & systems administrator with 10+ years of experience supporting enterprise IT across healthcare, aerospace, and non-profit organizations.
 
-Throughout my career, I’ve built and supported enterprise infrastructure in environments where reliability, security, and documentation mattered. I’ve learned that reliable infrastructure isn’t just about deploying technology. It’s about building systems that are secure, well documented, and easy to maintain.
-
-This repository documents that journey. 
+Throughout my career, I’ve built and supported enterprise infrastructure in environments where reliability, security, and documentation mattered. I’ve learned that reliable infrastructure isn’t just about deploying technology. It’s about building systems that are secure, well documented, and easy to maintain. 
 
 My goal is simple: keep building, keep learning, and share what I learn along the way.
+
+
+## Why EC-Builds?
+
+EC-Builds exists to bridge the gap between professional experience and continuous learning.
+
+While much of my production work cannot be shared publicly, this repository provides a place to design, document, and demonstrate enterprise-inspired solutions using using reproducible, enterprise-inspired infrastructure.
+
+
+## Infrastructure Philosophy
+
+I build projects the same way I would approach enterprise infrastructure:
+
+- Start with a reliable foundation
+- Document everything
+- Automate repetitive tasks
+- Monitor systems proactively
+- Secure before scaling
+- Continuously improve through iteration
+
+Every project in this repository is designed to demonstrate not just *what* was built, but *why* it was built and the operational decisions behind it.
+
+
+
+## What You'll Find
+
+Projects in this repository include:
+
+- Infrastructure deployments
+- Network architecture
+- Active Directory and identity management
+- Virtualization and container platforms
+- Automation and Infrastructure as Code
+- Monitoring and observability
+- Security hardening
+- Architecture documentation
+- Lessons learned and implementation notes
 
 
 
 ## Current Focus
 
 - **Enterprise Infrastructure** — designing and documenting production-inspired Active Directory, networking, virtualization, and storage environments
-- **Linux & Virtualization** — building Linux services and Proxmox infrastructure for modern enterprise workloads
+- **Linux Platforms & Virtualization** — building Linux services and Proxmox infrastructure for modern enterprise workloads
 - **Infrastructure Automation** — automating deployments and administration with PowerShell, Python, Ansible, Terraform, and GitHub Actions
 - **Cloud & Identity** — expanding Microsoft Entra ID, Azure administration, hybrid identity, and RBAC
 - **Monitoring & Observability** — implementing Prometheus, Grafana, centralized logging, and proactive alerting
@@ -50,12 +85,6 @@ My goal is simple: keep building, keep learning, and share what I learn along th
 | Storage & Backup | Synology DSM, Active Backup for Business |
 
 
-## Certifications
-
-Working toward:
-- CompTIA Network+
-- CompTIA Security+
-- CompTIA Linux+
 
 
 ## Development Roadmap
@@ -69,6 +98,15 @@ Building in phases — foundation first, then automation, then security and clou
 | 3. Integrate & Automate | Automation, monitoring, backup, IaC |
 | 4. Optimize & Secure | Hardening, access control, SIEM, DR planning |
 | 5. Operate & Grow | Cloud integration, advanced architecture, continuous improvement |
+
+
+## Professional Development
+
+Currently pursuing:
+
+- CompTIA Network+
+- CompTIA Security+
+- CompTIA Linux+
 
 
 
