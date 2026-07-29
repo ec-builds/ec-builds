@@ -25,7 +25,7 @@ My goal is simple: keep building, keep learning, and share what I learn along th
 
 
 
-### Current Focus
+## Current Focus
 
 - **Enterprise Infrastructure** — designing and documenting production-inspired Active Directory, networking, virtualization, and storage environments
 - **Linux & Virtualization** — building Linux services and Proxmox infrastructure for modern enterprise workloads
