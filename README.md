@@ -35,6 +35,8 @@ My goal is simple: keep building, keep learning, and share what I learn along th
 - **Security Operations** — strengthening infrastructure through hardening, network segmentation, SIEM, vulnerability management, and incident response
 
 
+## Technologies
+
 | Category | Technologies |
 |---|---|
 | Operating Systems | Windows Server, Debian, Ubuntu |
