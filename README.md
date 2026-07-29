@@ -7,7 +7,7 @@ This GitHub is my technical portfolio, documenting enterprise-inspired infrastru
 
 ### 🏗️ Enterprise Homelab
 
-An enterprise-focused homelab built on repurposed hardware that documents real infrastructure projects across 14 technical areas, including Active Directory, networking, virtualization, automation, cloud, and security.
+An enterprise-focused homelab built on repurposed hardware that showcases infrastructure projects across 14 technical areas, including Active Directory, networking, virtualization, automation, cloud, and security.
 
 ➡️ [enterprise-homelab](https://github.com/ec-builds/enterprise-homelab)
 
