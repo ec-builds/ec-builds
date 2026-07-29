@@ -25,14 +25,14 @@ My goal is simple: keep building, keep learning, and share what I learn along th
 
 
 
-## Current Focus
+### Current Focus
 
-- **Linux Administration** — building fluency for cloud-native and hybrid environments  
-- **Infrastructure Automation** — Terraform, Ansible, and scripted workflows  
-- **Monitoring & Alerting** — Prometheus, Grafana, and observability pipelines  
-- **Identity Management** — Microsoft Entra ID, hybrid identity, and RBAC  
-- **Cloud Administration** — Azure infrastructure and governance  
-- **Security Hardening** — SIEM, detection engineering, and incident response
+- **Enterprise Infrastructure** — designing and documenting production-inspired Active Directory, networking, virtualization, and storage environments
+- **Linux & Virtualization** — building Linux services and Proxmox infrastructure for modern enterprise workloads
+- **Infrastructure Automation** — automating deployments and administration with PowerShell, Python, Ansible, Terraform, and GitHub Actions
+- **Cloud & Identity** — expanding Microsoft Entra ID, Azure administration, hybrid identity, and RBAC
+- **Monitoring & Observability** — implementing Prometheus, Grafana, centralized logging, and proactive alerting
+- **Security Operations** — strengthening infrastructure through hardening, network segmentation, SIEM, vulnerability management, and incident response
 
 
 ## Technologies
