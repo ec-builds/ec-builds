@@ -7,7 +7,7 @@ This GitHub is my technical portfolio, documenting enterprise-inspired infrastru
 
 ### 🏗️ Enterprise Homelab
 
-An enterprise-focused homelab built on repurposed hardware that showcases infrastructure projects, including Active Directory, networking, virtualization, automation, cloud, and security.
+An enterprise-focused homelab built on repurposed hardware that showcases infrastructure projects across virtualization, Active Directory, networking, Linux, containerization, monitoring, automation, and security.
 
 ➡️ [enterprise-homelab](https://github.com/ec-builds/enterprise-homelab)
 
@@ -66,38 +66,39 @@ Projects in this repository include:
 - **Linux Platforms & Virtualization** — building Linux services and Proxmox infrastructure for modern enterprise workloads
 - **Infrastructure Automation** — automating deployments and administration with PowerShell, Python, Ansible, Terraform, and GitHub Actions
 - **Cloud & Identity** — expanding Microsoft Entra ID, Azure administration, hybrid identity, and RBAC
-- **Monitoring & Observability** — implementing Prometheus, Grafana, centralized logging, and proactive alerting
-- **Security Operations** — strengthening infrastructure through hardening, network segmentation, SIEM, vulnerability management, and incident response
-
+- **Monitoring & Observability** — building availability monitoring, metrics, centralized logging, visualization, and alerting with Uptime Kuma, Prometheus, Grafana, Loki, and related tooling
+- **Security Operations** — strengthening infrastructure through secure remote access, DNS security, hardening, monitoring, and planned network segmentation, vulnerability management, and detection capabilities
+- 
 
 ## Technologies
 
 | Category | Technologies |
 |---|---|
-| Operating Systems | Windows Server, Debian, Ubuntu |
+| Operating Systems | Windows Server, Windows, Debian, Ubuntu |
 | Virtualization | Proxmox VE, Hyper-V |
-| Containers | Docker, Kubernetes (k3s) |
-| Cloud | Microsoft Azure, Microsoft 365 |
-| Identity & Access | Active Directory, Microsoft Entra ID, Group Policy |
-| Networking | VLANs, DNS, DHCP, Firewalls, VPN, WireGuard |
-| Automation & IaC | PowerShell, Python, Ansible, Terraform, GitHub Actions |
-| Monitoring & Observability | Prometheus, Grafana, Uptime Kuma |
-| Storage & Backup | Synology DSM, Active Backup for Business |
-
+| Containers | Docker, Docker Compose |
+| Identity & Access | Active Directory, Group Policy, Microsoft Entra ID |
+| Networking | DNS, DHCP, Managed Switching, Firewalls, VPN, WireGuard |
+| Automation & Scripting | PowerShell, Python, Bash |
+| Monitoring & Observability | Prometheus, Grafana, Loki, Uptime Kuma, Grafana Alloy, Alertmanager |
+| DNS & Network Security | AdGuard Home, DNS-over-HTTPS |
+| Storage & Backup | Synology DSM, SMB, Active Backup for Business |
 
 
 
 ## Development Roadmap
 
-Building in phases — foundation first, then automation, then security and cloud at scale.
+The homelab is currently completing **Phase 2 (Build & Explore)** while progressing through **Phase 3 (Integrate & Automate)**.
 
-| Phase | Focus |
-|---|---|
-| 1. Foundation | Hardware, OS, networking, documentation standards |
-| 2. Build & Explore | Linux services, identity management, virtualization |
-| 3. Integrate & Automate | Automation, monitoring, backup, IaC |
-| 4. Optimize & Secure | Hardening, access control, SIEM, DR planning |
-| 5. Operate & Grow | Cloud integration, advanced architecture, continuous improvement |
+| Phase | Focus | Status |
+|---|---|---|
+| 1. Foundation | Hardware, OS, networking, documentation standards | 🟢 Complete |
+| 2. Build & Explore | Linux, identity, virtualization, containers, network services | 🟡 In Progress |
+| 3. Integrate & Automate | Monitoring, logging, alerting, backup, automation | 🟡 In Progress |
+| 4. Optimize & Secure | Hardening, segmentation, security monitoring, recovery | ⚪ Upcoming |
+| 5. Operate & Grow | Cloud, hybrid identity, IaC, Kubernetes, advanced architecture | ⚪ Upcoming |
+
+➡️ [View the detailed homelab roadmap](https://github.com/ec-builds/enterprise-homelab/blob/main/docs/roadmap.md)
 
 
 ## Professional Development
