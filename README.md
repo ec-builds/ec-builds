@@ -67,7 +67,8 @@ Projects in this repository include:
 - **Cloud & Identity** — expanding Microsoft Entra ID, Azure administration, hybrid identity, and RBAC
 - **Monitoring & Observability** — building availability monitoring, metrics, centralized logging, visualization, and alerting with Uptime Kuma, Prometheus, Grafana, Loki, and related tooling
 - **Security Operations** — strengthening infrastructure through secure remote access, DNS security, hardening, monitoring, and planned network segmentation, vulnerability management, and detection capabilities
-- 
+
+  
 
 ## Technologies
 
