@@ -26,8 +26,7 @@ My goal is simple: keep building, keep learning, and share what I learn along th
 
 EC-Builds exists to bridge the gap between professional experience and continuous learning.
 
-While much of my production work cannot be shared publicly, this repository provides a place to design, document, and demonstrate enterprise-inspired solutions using using reproducible, enterprise-inspired infrastructure.
-
+While much of my production work cannot be shared publicly, this repository provides a place to design, document, and demonstrate reproducible infrastructure projects based on enterprise practices.
 
 ## Infrastructure Philosophy
 
