@@ -15,7 +15,7 @@ An enterprise-focused homelab built on repurposed hardware that showcases infras
 
 ## About
 
-I’m a network & systems administrator with experience supporting enterprise IT across healthcare, aerospace, and non-profit organizations.
+I’m a systems & network administrator with experience supporting enterprise IT across healthcare, aerospace, and non-profit organizations.
 
 I’ve designed, built, and supported enterprise infrastructure in environments where reliability, security, and documentation matter. I’ve learned that reliable infrastructure isn’t just about deploying technology. It’s about building systems that are secure, well documented, and easy to maintain.
 
