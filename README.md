@@ -15,9 +15,9 @@ An enterprise-focused homelab built on repurposed hardware that showcases infras
 
 ## About
 
-I’m a systems & network administrator with experience supporting enterprise IT across healthcare, aerospace, and non-profit organizations.
+I’m Emmanuel, a Systems & Network Administrator with experience supporting enterprise IT across healthcare, aerospace, and non-profit organizations. I built this repo to build deeper skills in infrastructure, identify, and security.
 
-I’ve designed, built, and supported enterprise infrastructure in environments where reliability, security, and documentation matter. I’ve learned that reliable infrastructure isn’t just about deploying technology. It’s about building systems that are secure, well documented, and easy to maintain.
+Through my years of working in enterprise IT I’ve learned that reliable infrastructure isn’t just about deploying technology. It’s about building systems that are secure, well documented, and easy to maintain.
 
 My goal is simple: keep building, keep learning, and share what I learn along the way.
 
@@ -26,7 +26,7 @@ My goal is simple: keep building, keep learning, and share what I learn along th
 
 EC-Builds exists to bridge the gap between professional experience and continuous learning.
 
-While much of my production work cannot be shared publicly, this repository provides a place to design, document, and demonstrate reproducible infrastructure projects based on enterprise practices.
+While much of my production work can't be shared publicly, this repository serves as a place to design, document, and demonstrate reproducible infrastructure projects based on enterprise practices.
 
 ## Infrastructure Philosophy
 
